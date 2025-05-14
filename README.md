@@ -15,11 +15,8 @@ A simple and clean **Task Management** mobile application built with **React Nat
 
 ## 📱 Screenshots
 
-<p align="center">
-  <img src="H:\mobile_task_management/login.jpg" alt="login" width="250"/>
-  <img src="screenshots/add_task.png" alt="Add Task Screen" width="250"/>
- 
-</p>
+![login](https://github.com/user-attachments/assets/663d18a7-9b92-4cce-986b-0147484b81d4)
+
 
 
 
