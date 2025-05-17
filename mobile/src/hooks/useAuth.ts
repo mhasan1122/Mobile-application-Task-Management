@@ -4,7 +4,7 @@ import { RootState } from '../store';
 import { setCredentials, setError, setLoading, setSuccessMessage, logout } from '../store/slices/authSlice';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-const API_URL = 'http://192.168.0.107:8000/api'; // Django backend port
+const API_URL = 'http://192.168.0.227:8000/api'; // Django backend port
 
 export const useAuth = () => {
   const dispatch = useDispatch();
